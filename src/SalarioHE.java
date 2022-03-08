@@ -3,7 +3,7 @@ Un trabajador de la industria de la construcción gana $10 diarios en su jornada
 el empleado tiene que trabajar horas extras para cumplir con su trabajo. En el mes a acumulado 50 horas extras que se la
 pagan al 10% del valor del pago diario. ¿Cuánto ganara el trabajador al final de un mes de trabajo? 
 */
-public class AFP {
+public class SalarioHE {
     public static void main (String[] args){
         
         double salario, horasEx,renta , ExAc, salarioM,SalarioF;
